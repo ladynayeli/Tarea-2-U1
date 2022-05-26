@@ -30,6 +30,6 @@ Analizar los temas abordados en el capítulo 3 y 4, el cual permitirá tener mej
 3.Resoulucion de ejercicios
  Capitulo 3
  
- (I) = V/R
+ *I
 
  
