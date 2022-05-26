@@ -17,6 +17,8 @@ Analizar los temas abordados en el capítulo 3 y 4, el cual permitirá tener mej
 
 2. Marco Teoric
 
+![Untitled Diagram](https://user-images.githubusercontent.com/105687213/170426341-39e1b394-c0fc-4b26-bf66-6ae1637fd210.jpg)
+
 
 
 
