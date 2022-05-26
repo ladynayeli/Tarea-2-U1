@@ -351,6 +351,9 @@ P=0.68 watts
 
 28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos
 del resistor.
+
+![image](https://user-images.githubusercontent.com/105687213/170441324-4b22b889-63c0-4b90-b8ac-48645f74fa27.png)
+
  
 	Fuentes de potencia
 
