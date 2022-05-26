@@ -105,6 +105,8 @@ Corriente real I = 20/ 8 = 2,5 A
 
 El fusible debe ser de 2.5 A para proteger el circuito.
 
+Calculo de Voltaje
+
 24.Calcule el voltaje para cada valor de I y R:
 
 a. Yo = 1 mA, R = 10Ω
@@ -151,6 +153,7 @@ b. V = 5 µA × 100 MΩ = 500 V
 
 c. V = 2,5 A × 47 Ω = 117,5 V
 
+Calculo de la resistencia
 
 28.Encuentre la resistencia de un reóstato para cada valor de V e I:
 
@@ -209,7 +212,7 @@ R = V / yo
 
 R = 120 V / 2 A = 60 Ω 
 
-
+Introduccin a la localizacion de falla
 36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de 
 lecturas de ohmímetro mostradas. 
 
@@ -395,6 +398,22 @@ Psalida = eficiencia * Pentrada
 Psalida = (85%) * (5W)
 
 Psalida = 4.25 W
+
+-------------
+4. Vídeo
+
+
+
+Conclusiones
+• Tras el análisis,  podemos decir que que con la ley de Ohm podemos calcular o encontrar el valor del voltaje, resitencia y corriente, asi tambien esta ley establece 
+que la corriente es directamente proporcional  al voltaje y viceversa. Tambien se conoce que la energia es  la capacidad de realizar trabajo y  la potencia es cierta cantidad de energia  utilizada en cierta tiempo.
+
+• Además, podemos decir que el voltaje, la corriente y la resistencia son cantidades básicas de todos los circuitos eléctricos, de este modo las fuentes de voltaje tienen energía eléctrica.
+
+• Finalmente, los conceps analizados  permitm 	desarrolar de manera eficiente todos los ejercicios propuesto de cada capitulo.
+
+Bibliografía
+Floyd, T. (2007). Principios de circuitos electricos. CDMX, México: Pearson.
 
 
 
