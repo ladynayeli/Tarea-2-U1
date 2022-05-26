@@ -404,7 +404,7 @@ Psalida = 4.25 W
 
 
 
-5.Conclusiones
+5.  Conclusiones
 
 • Tras el análisis,  podemos decir que que con la ley de Ohm podemos calcular o encontrar el valor del voltaje, resitencia y corriente, asi tambien esta ley establece 
 que la corriente es directamente proporcional  al voltaje y viceversa. Tambien se conoce que la energia es  la capacidad de realizar trabajo y  la potencia es cierta cantidad de energia  utilizada en cierta tiempo.
