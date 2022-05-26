@@ -119,7 +119,7 @@ d. V = 1 kV, R = 2.2 kΩ*
 
 20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
 
-![image](https://user-images.githubusercontent.com/105617383/170416156-c25aa028-9095-494b-a963-87591e018971.png)
+
 
 El valor de la resistencia es de 37.4kΩ. Para calcular la corriente, se utilizar la ley de ohm I= V/R=0.32A
 
