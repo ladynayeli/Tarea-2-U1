@@ -404,7 +404,8 @@ Psalida = 4.25 W
 
 
 
-Conclusiones
+5.Conclusiones
+
 • Tras el análisis,  podemos decir que que con la ley de Ohm podemos calcular o encontrar el valor del voltaje, resitencia y corriente, asi tambien esta ley establece 
 que la corriente es directamente proporcional  al voltaje y viceversa. Tambien se conoce que la energia es  la capacidad de realizar trabajo y  la potencia es cierta cantidad de energia  utilizada en cierta tiempo.
 
@@ -412,7 +413,8 @@ que la corriente es directamente proporcional  al voltaje y viceversa. Tambien s
 
 • Finalmente, los conceps analizados  permitm 	desarrolar de manera eficiente todos los ejercicios propuesto de cada capitulo.
 
-Bibliografía
+6. Bibliografia
+
 Floyd, T. (2007). Principios de circuitos electricos. CDMX, México: Pearson.
 
 
