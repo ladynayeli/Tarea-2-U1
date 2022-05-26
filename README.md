@@ -82,9 +82,48 @@ c. I = V/R         I = 100 V / 4.7 kΩ = 21.278 mA
 
 *El circuito que tiene más corriente es el circuito c y el circuito que tiene menos corriente es el circuito a.
 
+12.Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA 
+cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor 
+deberá ser ajustada?
+
+IR = 100mA             R = V/IR                V = Ir * A
+Ir = 150mA             R = 20V/100mA            V = 150mA * 0.2Ω
+V = 20V               R = 0.2Ω                V = 30v
+ 
+ - SE cambiaria la fuente a 30v
+ 
+
+Cálculo de la corriente
+
+16. Determine la corriente en cada caso:
+
+a.	V = 9 V   R = 2.7 kΩ    
+
+ I = V/R    I = 9 v/2.7 kΩ      I = 18.15 mA
+
+b. V = 5.5 V, R = 10 kΩ**      
+
+   I = V/R    I = 5.5 v/10 kΩ     I = 0.55 mA*
+
+c.   V = 40 V, R = 68 kΩ*     
+
+I = V/R    I = 40 v/68 kΩ        I = 0.59 mA
+
+d. V = 1 kV, R = 2.2 kΩ*    
+
+    I = V/R         I = 1 kV/2.2 kΩ           I = 0.45 A
+
+*(e) V = 66 kV, R = 10 MΩ*     
+
+  I = V/R        I = 66 kV/10 MΩ        I = 6.6 mA
+
+20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+
+![image](https://user-images.githubusercontent.com/105617383/170416156-c25aa028-9095-494b-a963-87591e018971.png)
+
+El valor de la resistencia es de 37.4kΩ. Para calcular la corriente, se utilizar la ley de ohm I= V/R=0.32A
 
 
----------
 
 22.El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la 
 corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 
